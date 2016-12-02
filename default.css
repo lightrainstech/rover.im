@@ -165,6 +165,9 @@ a:visited {
   line-height: 1.9rem;
   letter-spacing: 0.25px;
 }
+.takeoff__textblock a {
+  color: #9039dd;
+}
 
 /* line 105, sass/_global.scss */
 .appPrompt {
